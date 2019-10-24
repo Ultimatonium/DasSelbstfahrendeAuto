@@ -3,6 +3,9 @@ ML project for selfdriving car simulation based on UnityNEAT
 
 ![screenshot](./screenshot.PNG)
 
+## YouTube
+[![YouTube](https://img.youtube.com/vi/c9BQXbilTBI/0.jpg)](https://youtu.be/c9BQXbilTBI)
+
 ## Installation
 1. Copy UnityNEAT to Application.persistentDataPath
 - Windows: C:\Users\<user>\AppData\LocalLow\DefaultCompany\
